@@ -1,2 +1,1 @@
-DATABASE_URL=postgres://vihbbtxhpyhpak:35604172ab355aa37f6f534f791662bdb8dd7d7c6a84ca75560f1edbe5e436e8@ec2-44-199-158-170.compute-1.amazonaws.com:5432/d2dqbsptns08gm
 EXCITED=true
